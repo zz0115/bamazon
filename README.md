@@ -10,6 +10,7 @@ For example, if the customer want to buy 100 ThermoPro, then the total price wil
 ![customer](https://user-images.githubusercontent.com/29808379/34075286-1fd993dc-e27f-11e7-8a5b-4a18321002cf.PNG)
 
 If the quantity the customer wants to buy exceeds the stock quantity, the app will tell the customer there's insufficient quantity.
+
 ![customer2](https://user-images.githubusercontent.com/29808379/34075309-a73957a4-e27f-11e7-9701-831d84f172de.PNG)
 
 Type 2: If you are a manager, you can execute following options:
@@ -33,10 +34,12 @@ Option 3:
 If the manager selects the third option, the app will ask him/her the item they want to choose and the quantity they want to add.
 
 Suppose he/she want to add 500 to item 1...
+
 ![managerop3](https://user-images.githubusercontent.com/29808379/34075291-2e7d131e-e27f-11e7-9276-1c094c604b18.PNG)
 
 Option 4:
 If the manager selects the fourth option, the app will ask the input about the new product name, department they belong to, price, and stock quantity.
 
 Example as below:
+
 ![managerop4](https://user-images.githubusercontent.com/29808379/34075292-2fdff44c-e27f-11e7-8390-ef6dfb940ec3.PNG)
