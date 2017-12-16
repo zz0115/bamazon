@@ -13,6 +13,7 @@ connection.connect(function (err) {
   if (err) throw err;
   console.log('connected as id ' + connection.threadId);
   readProducts();
+  
   // connection.end();
 });
 
@@ -27,6 +28,7 @@ function readProducts() {
     start();
     // connection.end();
   });
+  
 }
 
 function start() {
@@ -64,6 +66,7 @@ function start() {
           console.log(response);
           var totalPrice = answer.quantity * response[0].price;
           console.log("Your total cost is: $"+totalPrice);
+          return
         });
       } else{
         console.log("Insufficient Quantity!");

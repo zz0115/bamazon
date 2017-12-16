@@ -19,7 +19,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) VALU
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Snow Shovel", "Garden", 24.49, 8000);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("ThermoPro", "Houseware", 9.49, 4000);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Wall Mount for TV", "Electronics Supply", 20.95, 1000);
-INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Rich Dad Poor Dad", "Book", 7.19, 1000);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Beauty Blender", "Cosmetics", 20.00, 1000);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Oil Spray", "Houseware", 3.97, 3000);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("iPhone Case", "Electronics Supply", 7.99, 10000);
 
